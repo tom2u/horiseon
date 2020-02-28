@@ -1,7 +1,7 @@
 # horiseon
 01 HTML CSS Git: Code Refactor\
 This is a refactoring of the HTML and CSS to the Horiseon website.\
-It may be viewed at: https://tom2u.github.io/horiseon/\
+It may be viewed at: https://tom2u.github.io/horiseon/  \
 DIVs in the HTML have been changed to HTML5 semantic elements (MAIN, SECTION, ASIDE, etc.)\
 Alt attributes in IMG elements have been added.\
 Redundant CSS has been consolidated so that there are fewer rules.\
